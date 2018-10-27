@@ -1,4 +1,4 @@
-# codeload-zipline-futures-pairs
+# zipline-futures-pairs
 
 A futures pairs trading Zipline strategy. Adapted from the Quantopian futures pairs trading tutorial.
 
